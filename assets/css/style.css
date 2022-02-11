@@ -1,0 +1,111 @@
+body {
+    text-align: center;
+    background: #ffffff;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 82px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: left;
+}
+
+h3 {
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+
+p {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.list-group {
+    text-align: left;
+}
+
+.card-title {
+    padding-top: 16px;
+    padding-left: 15px;
+
+}
+
+.card-text {
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    background-color: #E83E8C;
+
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+
+.logo {
+    height: 53px;
+}
+
+.titulo {
+    padding-top: 140px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+
+.icon-section {
+    padding-top: 58px;
+    padding-bottom: 58px;
+    background-color: #17a2b8;
+    text-align: center;
+}
+
+.medios-pagos {
+    color: #ffffff;
+
+
+
+}
+
+.logo-footer {
+    width: 53px;
+
+}
+
+.footer {
+
+    padding-top: 30px;
+    padding-bottom: 40px;
+    background-color: #E83E8C;
+
+
+}
+
+.text-2 {
+    padding-left: 50px;
+    padding-right: 130px;
+}
